@@ -1,5 +1,4 @@
 # Research
-Test December
 <log_linear.py>
 It takes values that are in log (base10) and their uncertainties 
 and covert them into linear scale with new uncertanties in linear scale.
